@@ -1,0 +1,26 @@
+ Preliminary ideas: 
+   ☐ Trending tags on Twitter --> news articles 
+     ☐ Save articles
+     ☐ Delete articles
+     ☐ Leave notes on articles
+ Planning:
+   ☐ Wireframe out pages
+   ☐ Scaffold out project file structure
+   ☐ Sign up for Twitter API (https://dev.twitter.com/rest/reference/get/trends/place)
+   ☐ Sign up for WebHose.io (https://webhose.io/)
+ Stage 1:
+   ☐ Code out WITHOUT Angular to start
+   ☐ Front page boilerplate jade/html
+   ☐ Pipe in hashtags 
+     ☐ Express route to GET hashtags  
+   ☐ Pipe in news articles
+     ☐ Link to article  
+     ☐ Source of content
+ Stage 2:
+   ☐ Update hashtags using AJAX
+   ☐ Preview text for each article
+ Nice To Have:
+   ☐ Login
+   ☐ Tags for topics?
+   ☐ Trending topics by location  
+   ☐ Get summary of news article
