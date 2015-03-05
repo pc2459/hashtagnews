@@ -3,6 +3,7 @@
     "express": "^4",
     "jade": "^1",
     "body-parser": "^1",
-    "twitter": "~1.2.1"
+    "twitter": "~1.2.1",
+    "dotenv": "~0.5.1"
   }
 }
